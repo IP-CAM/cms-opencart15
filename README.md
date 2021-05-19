@@ -43,6 +43,29 @@ You can choose any number of ways from the list:
 * Sberbank Online;
 * Mobile Balance - Beeline, Megaphone, MTS, Tele2.
 
+### Additional features
+
+** payment on the side of YuMoney **
+
+Turn on the payment on the SIDE side in the module - and you do not have to post all payment methods on your site. Instead, one button "pay" will remain.
+ 
+[An example in the Demo store of the cash register] (https://yookassa.ru/demo/)
+
+** Sending data for checks by 54-ФЗ **
+
+If you connect the Cash Decision for 54-FZ, the module will be sent to the cashier data for the check along with the information about the order.
+ 
+[Details on the ticket office] (https://yookassa.ru/features/)
+
+### Contacts
+If you have questions or ideas for the module, write to us: cms@yoomoney.ru
+
+In the letter, specify:
+* version of the platform,
+* version of the module (you can look at the settings page),
+* idea or problem
+* Screenshot, talking about.
+
 -------------------
 
 # yoomoney-cms-opencart15
