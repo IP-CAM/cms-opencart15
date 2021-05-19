@@ -1,3 +1,50 @@
+# Yoomoney-CMS-OpenCart15
+
+Using the module, you can customize the reception of payments through YuKassa
+
+[Instructions for setting up] (https://yookassa.ru/docs/support/payments/onboarding/integration/cms-module/opencart1-5)
+
+### Requirements for CMS OpenCart:
+* Version 1.5.4 - 1.5.6;
+* PHP 5.4 or higher
+* Curl
+* [VQMOD for OpenCart] (https://github.com/vqmod/vqmod/wiki/installing-vqmod-on-opencart)
+
+### Compatibility with CMS OpenCart 2.1.x - 2.2.x
+This module is compatible only with CMS OpenCart version 1.5.x. For CMS OpenCart 2.1.x - 2.2.x We have developed a universal module that can [download here] (https://github.com/yoomoney/cms-opencart15).
+
+### Compatible with CMS OpenCart 2.3.x
+For CMS OpenCart 2.3.x We have developed a universal module that can [download here] (https://github.com/yoomoney/cms-opencart2).
+
+### Compatibility with CMS OpenCart 3.x
+For CMS OpenCart 3.x, we have developed a universal module that can [download here] (https://github.com/yoomoney/cms-opencart3).
+
+### about the checkout
+Service that allows you to enable receiving payments on the site.
+
+[Cash site] (http://yookassa.ru/)
+
+#### Conditions
+* Suitable for Yurlitz and IP,
+* Money comes to the current account,
+* The Commission is taken from each successful payment.
+
+For use, you need to [connect to YuKassa] (https://yoomoney.ru/joinups) and get in your personal account on the ticket office Parameters ** Shopid ** and ** Secret key **.
+
+### Payment methods
+You can choose any number of ways from the list:
+
+* Bank cards - Visa, MasterCard and Maestro, "Peace";
+* Yumoney;
+* WebMoney;
+* QIWI WALLET;
+* Cash;
+* Alpha click;
+* Sberbank Online;
+* Mobile Balance - Beeline, Megaphone, MTS, Tele2.
+
+-------------------
+
 # yoomoney-cms-opencart15
 
 С помощью модуля можно настроить прием платежей через ЮKassa
